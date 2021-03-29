@@ -1,0 +1,11 @@
+button {
+    height: 100px;
+    width:  75px;
+}
+
+.modal{
+    padding-top: 10px;
+    height: 50px;
+    width: 75px;
+    background-color: gold;
+}
