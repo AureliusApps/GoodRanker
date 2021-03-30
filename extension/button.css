@@ -1,11 +1,6 @@
-button {
+body {
     height: 100px;
-    width:  75px;
-}
-
-.modal{
-    padding-top: 10px;
-    height: 50px;
-    width: 75px;
-    background-color: gold;
+    width:  200px;
+    background-color: honeydew;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
